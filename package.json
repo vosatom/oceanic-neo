@@ -1,0 +1,21 @@
+{
+    "name": "oceanic-neo",
+    "displayName": "oceanic-neo",
+    "description": "Color theme based on Oceanic Next",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Neo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Neo-color-theme.json"
+            }
+        ]
+    }
+}
