@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v2.2.4
       with:
         name: oceanic
-        path: ./oceanic-neo-0.0.1.vsix
+        path: ./oceanic-neo-0.0.2.vsix
