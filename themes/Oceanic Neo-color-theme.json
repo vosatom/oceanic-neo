@@ -6,9 +6,9 @@
 		"editor.background": "#112531",
 		"editor.foreground": "#cdd3de",
 		"editor.lineHighlightBackground": "#65737e55",
-		"editor.selectionBackground": "#4f5b66",
+		"editor.selectionBackground": "#3a4653",
 		"editorCursor.foreground": "#c0c5ce",
-		"editorWhitespace.foreground": "#65737e",
+		"editorWhitespace.foreground": "#4a5862",
 		"activityBar.background": "#0e202b",
 		"badge.background": "#0a1a24",
 		"button.foreground": "#000000",
@@ -17,10 +17,10 @@
 		"editorGroupHeader.tabsBackground": "#112531",
 		"editorLineNumber.foreground": "#65737E",
 		"editorWidget.background": "#0a1a24",
-		"editorWidget.border": "#404d55",
+		"editorWidget.border": "#0a1a24",
 		"focusBorder": "#ff9900",
 		"input.background": "#06141d",
-		"list.activeSelectionBackground": "#08141b",
+		"list.activeSelectionBackground": "#2b5069",
 		"list.focusBackground": "#040b0f",
 		"list.hoverBackground": "#1b3546",
 		"list.inactiveSelectionBackground": "#08141b",
@@ -29,7 +29,6 @@
 		"tab.activeBackground": "#183141",
 		"tab.border": "#0e202b",
 		"tab.inactiveBackground": "#0e202b",
-		"peekView.border": "#ebad2a",
 		"titleBar.activeBackground": "#112531",
 		"titleBar.inactiveBackground": "#112531",
 		"statusBar.noFolderBackground": "#0b1a24",
@@ -41,7 +40,15 @@
 		"editor.findMatchHighlightBackground": "#464121",
 		"activityBar.activeBorder": "#00000000",
 		"activityBar.activeBackground": "#0a1820",
-		"activityBarBadge.background": "#ebad2a"
+		"activityBarBadge.background": "#ebad2a",
+		"editorIndentGuide.background": "#65737e55",
+		"editorIndentGuide.activeBackground": "#546674",
+		"debugToolBar.background": "#0a1a24",
+		"editorSuggestWidget.border": "#0a1a24",
+		"peekView.border": "#19384b",
+		"peekViewTitle.background": "#19384b",
+		"peekViewEditor.background": "#0b1e2b",
+		"peekViewResult.background": "#0b1e2b"
 	},
 	"tokenColors": [
 		{
@@ -51,7 +58,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#65737E",
+				"foreground": "#76828c",
 			}
 		},
 		{
@@ -149,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#99C794",
+				"foreground": "#8dcb86",
 			}
 		},
 		{
